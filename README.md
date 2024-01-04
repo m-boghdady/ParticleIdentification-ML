@@ -21,11 +21,8 @@ The `MLParticlePhysics` project is an experimental venture applying machine lear
 - **Visualization**: Provides scripts for 3D scatter plots to visualize data distributions and inter-parameter relationships.
 
 ## Contact for Original Data
-- **Pythia8 Code & data sets**: For access to the original Pythia8 code used to generate the collision data and the originating .root data files, please contact me on email [email](mailto:mustafa_elboghdady@aucegypt.edu).
+- **Pythia8 Code & data sets**: For access to the original Pythia8 code used to generate the collision data and the originating .root data files, please contact me on [email](mailto:mustafa_elboghdady@aucegypt.edu).
 
 ## Note
 This project is a work-in-progress and is primarily aimed at documenting my exploration and learning process in applying machine learning techniques to particle physics. It is currently not ready for professional or practical application.
 
----
-
-This README outlines the project's purpose, current status, and features, while providing contacts for further information on the original data sources. The emphasis on its developmental nature and role as a documentation resource is maintained throughout the description.
